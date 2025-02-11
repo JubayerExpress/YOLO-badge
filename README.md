@@ -13,8 +13,7 @@ A brief description of your project goes here. Explain what it does, who it's fo
 ## Features
 
 - Feature 1
-- Feature 2
-- Feature 3
+
 
 ## Installation
 
